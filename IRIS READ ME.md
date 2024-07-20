@@ -1,4 +1,4 @@
-# Bharat-Intern_task-3_Iris-Flowers-Classification
+# BharatIntern_task-3_Iris-Flowers-Classification
 
 This project aims to classify Iris flowers into different species using machine learning techniques. The dataset contains measurements of Sepal Length, Sepal Width, Petal Length, and Petal Width for three different Iris species: Setosa, Versicolor, and Virginica.
 
